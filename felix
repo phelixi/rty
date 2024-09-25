@@ -1,0 +1,7 @@
+Raw Material Arrival --> Visual Inspection --> Dimensional Inspection --> Material Testing
+   |                             |                        |                          |
+   V                             V                        V                          V
+Approved? --------> YES -------------------------------------> Ready for Fabrication
+   |
+   V
+NO ----> Reject & Notify Supplier
